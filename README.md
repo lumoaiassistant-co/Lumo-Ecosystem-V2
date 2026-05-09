@@ -35,7 +35,7 @@ A comprehensive analytics interface that allows parents to track progress, ident
 | **Frontend** | React, TypeScript, Tailwind CSS, Framer Motion |
 | **Backend** | FastAPI (Python), MongoDB, WebSockets |
 | **AI Engine** | Ollama (Lumo3.2), OpenCV, PyTesseract |
-| **Hardware** | ESP32-CAM, Arduino (C++), 3D Printed Chassis |
+| **Hardware** | ESP32, Arduino (C++), 3D Printed Chassis |
 
 ---
 
