@@ -20,7 +20,7 @@ Unlike traditional cloud-based systems, Lumo performs all sensitive AI interacti
 
 ### 🎮 Gamified Explorer Interface
 
-Educational tasks are transformed into interactive "Quests," making learning a fun and rewarding adventure for children aged 10-14.
+Educational tasks are transformed into interactive "Quests," making learning a fun and rewarding adventure for children aged 6-16.
 
 ### 📊 Parent Dashboard
 
@@ -34,7 +34,7 @@ A comprehensive analytics interface that allows parents to track progress, ident
 | :--- | :--- |
 | **Frontend** | React, TypeScript, Tailwind CSS, Framer Motion |
 | **Backend** | FastAPI (Python), MongoDB, WebSockets |
-| **AI Engine** | Ollama (Llama 3.2), OpenCV, PyTesseract |
+| **AI Engine** | Ollama (Lumo3.2), OpenCV, PyTesseract |
 | **Hardware** | ESP32-CAM, Arduino (C++), 3D Printed Chassis |
 
 ---
@@ -54,4 +54,4 @@ A comprehensive analytics interface that allows parents to track progress, ident
 
 1. **Backend:** Install requirements via `pip install -r 2-backend/requirements.txt`.
 2. **Frontend:** Run `npm install` and `npm run dev` inside `3-frontend/`.
-3. **AI Brain:** Ensure [Ollama](https://ollama.ai/) is installed and running `llama3.2`.
+3. **AI Brain:** Ensure [Ollama](https://ollama.ai/) is installed and running `lumo3.2`.
