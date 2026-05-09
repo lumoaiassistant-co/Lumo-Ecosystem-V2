@@ -1,0 +1,29 @@
+# --- Python & Backend (2-backend) ---
+__pycache__/
+*.pyc
+2-backend/venv/
+2-backend/.env
+2-backend/*.pt
+2-backend/static/books/
+
+# --- Frontend (3-frontend) ---
+3-frontend/node_modules/
+3-frontend/dist/
+3-frontend/.env
+3-frontend/.eslintcache
+
+# --- AI Brain & TTS (4-ai_brain) ---
+4-ai_brain/logs/
+4-ai_brain/tts_engine/models/*.onnx
+4-ai_brain/tts_engine/piper/
+
+# --- OS & IDE Files ---
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# --- Large Compressed Files ---
+*.rar
+*.zip
+5-hardware/designs/*.rar
