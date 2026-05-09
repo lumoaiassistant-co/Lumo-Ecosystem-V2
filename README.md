@@ -16,7 +16,7 @@ Through its proprietary **Neural Proctor system**, Lumo uses computer vision (Op
 
 ### 🛡️ Privacy-by-Design
 
-Unlike traditional cloud-based systems, Lumo performs all sensitive AI interactions **locally on-device** using offline infrastructure (Ollama & Llama 3.2), ensuring total protection of children’s data.
+Unlike traditional cloud-based systems, Lumo performs all sensitive AI interactions **locally on-device** using offline infrastructure (Ollama & Lumo 3.2), ensuring total protection of children’s data.
 
 ### 🎮 Gamified Explorer Interface
 
